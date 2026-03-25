@@ -1,6 +1,3 @@
-# Praticas\_de\_Java
+# programacao-oo
 
-
-
-teste locals
-
+Códigos de exemplo usados na disciplina de OO semestre 2026/2
